@@ -163,7 +163,7 @@ Los ingresos a 2022/04 son de 70.000 pesos, lo cual no resulta confiable. Ya que
 
 - `Tabla 13:` Esta tabla no diferencia el periodo, solamente contiene por localidad/partido/ provincia la cantidad de usuarios en cada velocidad puntual.
 
-              Se pueden obtener las localidades con mas accesos de cada provincia y asi tambien donde menor hay acceso.
+Se pueden obtener las localidades con mas accesos de cada provincia y asi tambien donde menor hay acceso.
 En este caso, Buenos Aires, que tiene más acceso entre todas las provincias, las localidades con mayores accesos son:San Martin, Florencio Varela y Almirante Brown.
 
 - `Tabla 14:` Contiene los usuarios por los tipos de tecnologia desagregado por provincia/partido/localidad sin especificar el periodo
